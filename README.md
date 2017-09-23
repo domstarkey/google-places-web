@@ -1,3 +1,6 @@
+The same as mcabs3 repo but with added constants to make textsearch and nearbysearch work :)
+https://github.com/mcabs3/google-places-web
+
 # Google Places Web
 This library was created to provide the Google Place Web (JS) API to be accessible for React (Web & Native), and Node projects. There are already many other libraries that implement the Native SDKs, but this library will allow you to use the same library for both Web and Mobile experience.
 
